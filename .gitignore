@@ -1,0 +1,10 @@
+# Ignore automation runner and patch metadata
+commit_runner.ps1
+commits_manifest.json
+step_state.json
+patches/
+
+# OS & Temp Files
+.DS_Store
+Thumbs.db
+*.tmp
