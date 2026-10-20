@@ -1,10 +1,10 @@
-# Ignore automation runner and patch metadata
-commit_runner.ps1
-commits_manifest.json
-step_state.json
-patches/
-
-# OS & Temp Files
+# Local settings, editor files, logs, and temporary files
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
 .DS_Store
 Thumbs.db
 *.tmp
+*.log

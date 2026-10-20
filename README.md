@@ -60,7 +60,6 @@ railway_booking_system/
 ├── login.php                # Login form & security CAPTCHA
 ├── register.php             # User registration form
 ├── logout.php               # Logout session destruction
-├── credentials.txt          # Demo login accounts list
 └── README.md                # Open-source project documentation
 ```
 
